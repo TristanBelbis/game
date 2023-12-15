@@ -343,8 +343,8 @@ button:hover {
 
 .char2 {
     position: absolute;
-    top: 1970px;
-    left: 790px;
+    top: 2100px;
+    left: 1000px;
     height: 30%;
     width: 15%;
     border-radius: 20px;
@@ -352,8 +352,8 @@ button:hover {
 
 .char3 {
     position: absolute;
-    top: 2000px;
-    left: 970px;
+    top: 1800px;
+    left: 1200px;
     height: 30%;
     width: 15%;
     border-radius: 20px;
